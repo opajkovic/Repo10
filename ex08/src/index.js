@@ -12,4 +12,5 @@ function myObject() {
     return MATH_CONSTANTS;
 }
 const E = myObject();
+console.log(E);
 module.exports = myObject;
